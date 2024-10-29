@@ -7,9 +7,10 @@ layout: home
 ### UC Berkeley, Spring 2024
 
 ## Announcements
-> ### Week 11 Announcements
-> - Mid-Semester Feedback Reflection is due **April 22 at 11:59 PM**: [Mid-Semester Feedback Reflection]
-> - DeCal Feedback Reflection is due **April 26 at 11:59 PM**: [DeCal Feedback Reflection]
+> ### Week-to-Week Announcements
+> - Hello there! This is the **Spring 2024** website for Data 198.
+> - To check out other offerings of the course, refer to [dssdecal.org]!
+> - Thanks for stopping by!
 
 ## Week 1
 Feb 12
@@ -126,3 +127,4 @@ Apr 22
 [Mini Announcements 11]: https://docs.google.com/presentation/d/1MKHeid5RETuocLg9vL-5utZMx1Au0FDFkSJJaibrdoA/edit?usp=sharing
 [Mid-Semester Feedback Reflection]: https://forms.gle/mbkt3HP3peiHUN7b7
 [DeCal Feedback Reflection]: https://forms.gle/Nocjsy2YsHW74oJfA
+[dssdecal.org]: https://dssdecal.org/

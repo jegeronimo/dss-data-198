@@ -10,6 +10,7 @@ layout: home
 > ### Week-to-Week Announcements
 > - Hello there! This is the **Spring 2024** website for Data 198.
 > - To check out other offerings of the course, refer to [dssdecal.org]!
+> - This site was developed by [James Geronimo].
 > - Thanks for stopping by!
 
 ## Week 1
@@ -128,3 +129,4 @@ Apr 22
 [Mid-Semester Feedback Reflection]: https://forms.gle/mbkt3HP3peiHUN7b7
 [DeCal Feedback Reflection]: https://forms.gle/Nocjsy2YsHW74oJfA
 [dssdecal.org]: https://dssdecal.org/
+[James Geronimo]: https://www.linkedin.com/in/james-geronimo/
